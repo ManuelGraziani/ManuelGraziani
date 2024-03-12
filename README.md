@@ -49,8 +49,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ManuelGraziani/ManuelGraziani/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ManuelGraziani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
