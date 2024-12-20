@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Manuel and I'm a Jr. Full Stack Developer, from Italy 🇮🇹</h1>
+<h1 align="left">Hi 👋! My name is Manuel and I'm a Full Stack Developer, from Italy 🇮🇹</h1>
 
 ###
 
@@ -50,21 +50,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">My stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ManuelGraziani&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelGraziani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
